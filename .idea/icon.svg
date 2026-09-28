@@ -15,8 +15,8 @@
         <stop offset=".42" style="stop-color:#f15251"/>
         <stop offset=".545" style="stop-color:#ef3a3d"/>
         <stop offset=".678" style="stop-color:#ee292f"/>
-        <stop offset=".822" style="stop-color:#ed1f27"/>
-        <stop offset="1" style="stop-color:#ed1c24"/>
-    </radialGradient>
-    <path fill="url(#a)" style="stroke:#000" d="M139.162 177.941c-1.493 15.627-13.947 28.182-28.944 31.824-15.87 3.854-33.393-2.257-39.096-18.576-2.912-8.332-2.37-16.879 2.637-24.198 4.223-6.171 11.033-11 17.779-14.066 13.924-6.326 33.832-7.029 43.531 7.077 3.675 5.346 4.318 11.639 4.093 17.939"/>
-</svg>
+        offset="1" style="stop-color:#ed1c24"/>
+    https://github.com/ethanplusai/jarvis
+    <path fill="url(#a)" style="stroke:#000" d="M139.162 177.941c-1.493 15.627-13.947 28.182-28.944 31.824-15.87 3.854-33.393-2.257-39.096-18.576-2.912-8.332-2.37-16.879 2.637-24.198 4.223-6.171 11.033-11 17.779-14.066 13.924-6.326 33.832-7.029 43.531 7.077 3.675 5.346 4.318 11.639 4.093 17.939"/><stop offset=".678" style="stop-color:#ee292f
+</svg><stop offset=".678" style="stop-color:#ee292f"
+          
